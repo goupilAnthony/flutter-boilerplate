@@ -1,4 +1,5 @@
 import 'package:mobx/mobx.dart';
+import 'package:adaptive_theme/adaptive_theme.dart';
 
 // Include generated file
 part 'global.g.dart';

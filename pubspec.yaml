@@ -30,6 +30,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   mobx: ^2.0.0
   flutter_mobx: ^2.0.0
+  adaptive_theme: ^2.2.0
+  google_fonts: ^2.1.0
+  velocity_x: ^3.2.0
 
 dev_dependencies:
   flutter_test:
